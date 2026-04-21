@@ -4,7 +4,7 @@
 Instructions:
 1. Make sure you have EasySpin installed.
 2. Open the folder in Matlab
-3. Right-click on Demo.m -> Open as Live Script
+3. Right-click on `Demo.m` -> Open as Live Script
 4. Run all sections. You should see figures that look like this.
 
 <img src="images/Figure.png" alt="Garlic2D demo" width="700">
