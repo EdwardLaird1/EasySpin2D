@@ -7,4 +7,4 @@ Instructions:
 3. Right-click on Demo.m -> Open as Live Script
 4. Run all sections. You should see figures that look like this.
 
-![Example spectrum](images/Figure.png)
+<img src="images/Figure.png" alt="Garlic2D demo" width="700">
